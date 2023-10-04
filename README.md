@@ -1,3 +1,2 @@
-# Good news
-There'll be some here soon
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cbxstY59JzI?si=Y-cVhPAfqXe74Czy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+# Hey gamers
+this is a website. Isn't that dope/awesome/cool/please praise me?????????????
