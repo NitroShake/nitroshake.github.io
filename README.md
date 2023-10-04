@@ -1,6 +1,6 @@
 ---
 title: GAMING 2
-test: sussy!
+test: "sussy!"
 ---
 # Hey gamers
 this is a website. Isn't that dope/awesome/cool/please praise me?????????????
