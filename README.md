@@ -1,3 +1,2 @@
-# Do you like video games?
-Good news
+# Good news
 There'll be some here soon
